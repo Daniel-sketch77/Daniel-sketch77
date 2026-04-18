@@ -29,4 +29,4 @@ I'm a **Full-Stack Developer** passionate about the "details"—the smooth trans
 - **UI Research:** Experimenting with scroll-linked animations and glassmorphism.
 
 📫 Let's Connect!
-[📧 Email Me](mailto:your-email@example.com)
+[📧 Email Me](mailto:@akpoduado77@gmail.com)
