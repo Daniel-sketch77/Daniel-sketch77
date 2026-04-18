@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Daniel-sketch77/Daniel-sketch77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Daniel 👋 
+
+I'm a **Full-Stack Developer** passionate about the "details"—the smooth transitions, the perfect grid, and the code that makes it all work behind the scenes. I specialize in building fast, responsive, and animated web interfaces that feel "alive."
+
+### 🛠️ My Tech Stack
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React, Tailwind CSS, Bootstrap
+- **Interactions:** Intersection Observer API, GPU-Accelerated Animations
+- **Tools:** GitHub, VS Code, Figma
+
+### 🏗️ What I've Been Building
+- **Interactive Portfolio:** A high-performance site featuring infinite scrolling tech stacks and smooth-expand FAQ systems (using the CSS Grid trick!).
+- **UI Research:** Experimenting with scroll-linked animations and glassmorphism.
+
+📫 Let's Connect!
+[📧 Email Me](mailto:your-email@example.com)
