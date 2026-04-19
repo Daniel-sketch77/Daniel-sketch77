@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Daniel 👋 
 
-I'm a **Full-Stack Developer** passionate about the "details"—the smooth transitions, the perfect grid, and the code that makes it all work behind the scenes. I specialize in building fast, responsive, and animated web interfaces that feel "alive."
+I'm a **Front-end web Developer** passionate about the "details"—the smooth transitions, the perfect grid, and the code that makes it all work behind the scenes. I specialize in building fast, responsive, and animated web interfaces that feel "alive."
 
 ### 🛠️ My Tech Stack
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
@@ -30,3 +30,4 @@ I'm a **Full-Stack Developer** passionate about the "details"—the smooth trans
 
 📫 Let's Connect!
 [📧 Email Me](mailto:@akpoduado77@gmail.com)
+[Portfolio link](brume-portfolio.vercel.app)
