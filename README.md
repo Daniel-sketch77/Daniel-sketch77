@@ -30,4 +30,4 @@ I'm a **Front-end web Developer** passionate about the "details"—the smooth tr
 
 📫 Let's Connect!
 [📧 Email Me](mailto:@akpoduado77@gmail.com)
-[Portfolio link](brume-portfolio.vercel.app)
+[Portfolio link](https://brume-portfolio.vercel.app)
